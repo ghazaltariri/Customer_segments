@@ -1,0 +1,3 @@
+# Customer_segments
+Describe the variation in the different types of customers that a wholesale distributor interacts with...
+Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
